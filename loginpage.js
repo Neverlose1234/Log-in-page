@@ -1,0 +1,1 @@
+function login() {  const username = document.getElementById('username').value;  const password = document.getElementById('password').value;  // You can add your logic for handling login here  // This is a simple example and doesn't perform any actual login  console.log('Logging in with username:', username);}
